@@ -8,11 +8,11 @@
 
 ## :telescope: I am a 13 year old coder who has been coding for about 4 years. I love making discord bots.
 ## :seedling: I'm Coding with Following Stuff: Javascript, Python, Html (New), CSS (Very New)
-## :exploding_head: Currently Working on a public discord bot :eyes:
+## :exploding_head: Currently Working on a public discord bot :eyes: [https://discord.gg/cortex-bot](https://dsc.gg/cortex-bot)
 ***
 
 ## ***:thinking: My Upcoming plans.***
- - [1] **TOP / CURRENT:**  Finishing Ticket System on my Bot.
- - [2] Adding some more features.
- - [3] Finishing up project and deploying public bot!
+ - [1] **TOP / CURRENT:**  Finishing up project and deploying public bot!
+ - [2] Bug fixing.
+ - [3] Adding some more features.
 <br/>
