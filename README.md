@@ -16,3 +16,4 @@
  - [2] Bug fixing.
  - [3] Adding some more features.
 <br/>
+<font size="0.5"><small>Inspired from AlexDev7518's README.<small/><font/>
