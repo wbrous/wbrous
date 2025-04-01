@@ -6,7 +6,7 @@
 
 ***
 
-## :telescope: I am a 13 year old coder who has been coding for about 4 years. I love making discord bots.
+## :telescope: I am a coder who has been coding for about 4 years. I love making discord bots.
 ## :seedling: I'm Coding with Following Stuff: Javascript, Python, Html (New), CSS (Very New)
 ## :exploding_head: Currently Working on a public discord bot :eyes: [https://discord.gg/cortex-bot](https://dsc.gg/cortex-bot)
 ***
