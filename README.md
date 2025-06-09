@@ -6,8 +6,8 @@
 
 ***
 
-## :telescope: I am a coder who has been coding for about 4 years. I love making discord bots.
-## :seedling: I'm Coding with Following Stuff: Javascript, Python, Html (New), CSS (Very New)
+## :telescope: I am a coder who has been coding for about 4 years. I love making discord bots and learning new things.
+## :seedling: I'm Coding with the following stuff: JavaScript, TypeScript, Python, React (Next & Vite)
 ## :exploding_head: Currently Working on breaking [FaceDev's](https://discord.gg/KngPcc9reV) projects.
 ***
 
