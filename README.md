@@ -13,6 +13,6 @@
 
 ## ***:thinking: My Upcoming plans.***
  - [1] **TOP / CURRENT:** Working on an SDK integration for [Rugplay's](https://rugplay.com/) Websocket.
- - [2] Polishing my Flashcard App (WIP) with some snazzy AI 🤯.
+ - [2] Polishing my [Flashcard App (WIP)](https://github.com/wbrous/flashcard-learner) with some snazzy AI 🤯.
  - [3] Learning some more JS frameworks to help me in school.
 <br/>
