@@ -1,4 +1,4 @@
-# <div align="center">Hey, I'm Gir0fa :rocket: <img src="https://komarev.com/ghpvc/?username=Gir0fa&label=Profile%20views&color=00FFFF&style=flat" alt="Gir0fa" /></div>  
+# <div align="center">Hey, I'm Gir0fa <img src="https://komarev.com/ghpvc/?username=Gir0fa&label=Profile%20views&color=00FFFF&style=flat" alt="Gir0fa" /></div>  
 <p align="center"><img src="https://lanyard.cnrad.dev/api/1282734265955520545">
 
 
