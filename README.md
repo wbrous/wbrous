@@ -8,11 +8,4 @@
 
 ## :telescope: I am a developer who has been programming for about 4 years. I love making discord bots and learning new things.
 ## :seedling: I'm Coding with the following stuff: JavaScript, TypeScript, Python, React (Next & Vite)
-## :exploding_head: Currently Working on breaking [FaceDev's](https://discord.gg/KngPcc9reV) projects.
 ***
-
-## ***:thinking: My Upcoming plans.***
- - [1] **TOP / CURRENT:** Working on an SDK integration for [Rugplay's](https://rugplay.com/) Websocket.
- - [2] Polishing my [Flashcard App (WIP)](https://github.com/wbrous/flashcard-learner) with some snazzy AI 🤯.
- - [3] Learning some more JS frameworks to help me in school.
-<br/>
