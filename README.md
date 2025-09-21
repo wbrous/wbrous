@@ -2,7 +2,7 @@
 <p align="center"><img src="https://lanyard.cnrad.dev/api/1282734265955520545">
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wbrous&theme=slateorange&show_icons=true&hide_border=true&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbrous&theme=slateorange&show_icons=true&hide_border=true&layout=compact">
+<p align="center"><img src="https://gh-readme-stats.gir0fa.com/api?username=wbrous&theme=slateorange&show_icons=true&hide_border=true&count_private=true"><img src="https://gh-readme-stats.gir0fa.com/api/top-langs/?username=wbrous&theme=slateorange&show_icons=true&hide_border=true&layout=compact">
 
 ***
 
