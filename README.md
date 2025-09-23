@@ -1,8 +1,4 @@
-# <div align="center">Hey, I'm Gir0fa <img src="https://komarev.com/ghpvc/?username=Gir0fa&label=Profile%20views&color=00FFFF&style=flat" alt="Gir0fa" /></div>  
 <p align="center"><img src="https://lanyard.cnrad.dev/api/1282734265955520545">
-
-
-<p align="center"><img src="https://gh-readme-stats.gir0fa.com/api?username=wbrous&theme=slateorange&show_icons=true&hide_border=true&count_private=true"><img src="https://gh-readme-stats.gir0fa.com/api/top-langs/?username=wbrous&theme=slateorange&show_icons=true&hide_border=true&layout=compact">
 
 ***
 
@@ -24,5 +20,8 @@ Java:
 - [KarmaPlugin](https://github.com/wbrous/karmaplugin) is one of my Java based projects that I have made for one of my friend's minecraft server.
 - [MelonGems](https://github.com/wbrous/MelonGems) was a fork of Iseal's [PowerGems](https://github.com/ISeal-plugin-developement/PowerGems) that I modified to use in a Watermelon themed Minecraft server.
 
+<p align="center"><img src="https://gh-readme-stats.gir0fa.com/api?username=wbrous&theme=slateorange&show_icons=true&hide_border=true&count_private=true">
+
 ---
 <sup>Thanks for reading my profile! If you have any questions, feel free to reach me at [wils@gir0fa.com](mailto:wils@gir0fa.com).<sup>
+</br></br><img src="https://komarev.com/ghpvc/?username=Gir0fa&label=Profile%20views&color=00FFFF&style=flat" alt="Gir0fa" />
