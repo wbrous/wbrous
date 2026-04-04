@@ -7,20 +7,20 @@
 ## 👋 About Me
 I’m a full-stack developer passionate about building high-quality, performant solutions that solve real-world problems.
 
-### 🐍 Python
+### Python
 - My first language and one I still constantly use for simple webservers and quick projects.
 - I recreated some of [DougDoug's](https://www.youtube.com/user/Gloudas) streaming applications such as:
   - [ChatGodApp](https://github.com/wbrous/ChatGodApp)
   - [Babagaboosh](https://github.com/wbrous/Babagaboosh)
 
-### ⚡ TypeScript / JavaScript
+### TypeScript / JavaScript
 - My most confident language and one I’ve used throughout my career.
 - I’ve built interfaces with [FaceDev](https://www.youtube.com/@FaceDevStuff), including:
   - [rugplay-ws](https://github.com/wbrous/rugplay-ws)  
   - [twoblade-bot](https://github.com/wbrous/twoblade-bot)
 - I’ve also created web applications like [RedditBrowser](https://github.com/wbrous/RedditBrowser).
 
-### ☕ Java
+### Java
 - My newest language adventure, mainly through developing Minecraft plugins.
 - Projects include:
   - [KarmaPlugin](https://github.com/wbrous/karmaplugin) — a plugin for a friend’s server.  
