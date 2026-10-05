@@ -36,5 +36,5 @@ I’m a full-stack developer passionate about building high-quality, performant 
 
 <sup>Thanks for reading my profile! If you have any questions, feel free to reach me at <a href="mailto:wils@gir0fa.com">wils@gir0fa.com</a>.</sup>  
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=Gir0fa&label=Profile%20views&color=00FFFF&style=flat" alt="Gir0fa" />
+<img src="https://komarev.com/ghpvc/?username=Gir0fa&label=Profile%20views&color=0192CB" alt="Gir0fa" />
 
